@@ -32,5 +32,6 @@ class ViewController: UIViewController {
         messageLabel.text = EnterUsername.text + " has been signed in!"
         EnterPass.resignFirstResponder()
     loginButton.setTitle("Logged In", forState: UIControlState.Normal)}
+    //Testing for second commit
 }
 
